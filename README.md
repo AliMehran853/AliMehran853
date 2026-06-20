@@ -10,11 +10,8 @@ Frontend Developer Learner
 
 ## Skills
 
-* HTML
-* CSS
-* Tailwind CSS
-* JavaScript
-* Python
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py)](https://skillicons.dev)
+
 
 ## Connect With Me
 
