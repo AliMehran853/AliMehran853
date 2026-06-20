@@ -10,7 +10,7 @@ Frontend Developer Learner
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py)](https://skillicons.dev) 
 
 
 ## Connect With Me
