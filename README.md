@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**AliMehran853/AliMehran853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer Learner
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning JavaScript and Python
+* 🎨 Interested in Frontend Development
+* 🚀 Building projects to improve my skills
+
+## Skills
+
+* HTML
+* CSS
+* Tailwind CSS
+* JavaScript
+* Python
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ali-mehran-48abb3397
